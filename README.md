@@ -1,4 +1,6 @@
-# Turtlet
+## Turtlet
+-------------------
+
 A lonely turtle who wanders the wastelands until you click on him....
 
 At which point he *teleports* back to where he came from and starts again.
